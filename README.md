@@ -1,6 +1,6 @@
 # documentation_helper
 
-An StreamLit chat based app for Question Answering on Langchain documentation.
+An StreamLit based app for Question Answering on Langchain documentation.
 
 ## Application
 
@@ -15,7 +15,7 @@ https://huggingface.co/spaces/saadkh225/langchain-documentation-helper
 
 ## Approach
 
-Use LLMs with Conversational Retrieval Augmented Generation (RAG).
+LLMs with Conversational Retrieval Augmented Generation (RAG).
 
 ## Data
 
